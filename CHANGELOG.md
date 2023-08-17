@@ -15,7 +15,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean architecture structure (2023-08-17)
 - Sample scene: cube (2023-08-17)
 - North & South prefabs (2023-08-17)
-
-### Changed
-
 - Modify North prefab (2023-08-17)
+- Changelog (2023-08-17)
