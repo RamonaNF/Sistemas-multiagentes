@@ -6,3 +6,4 @@
 3. Figures on time
 4. Unity + GitHub
 5. 3D (HDRP) and ProBuilder
+6. Algoritmos genéticos
