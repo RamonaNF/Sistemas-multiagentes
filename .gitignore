@@ -74,4 +74,4 @@ crashlytics-build.properties
 # Extras
 Laboratorios/Docs
 Multiagent_models/Intro
-Multiagent_models/.ipynb_checkpoints
+*/.ipynb_checkpoints
