@@ -34,7 +34,7 @@ public class MoveFigure : MonoBehaviour {
 
         Vector3 currentPos = transform.position;
 
-	float timeElapsed = 0;
+	    float timeElapsed = 0;
 
         while(timeElapsed < timeToMove){
             transform.position = Vector3.Lerp(currentPos,targetPos,timeElapsed/timeToMove);
@@ -42,6 +42,5 @@ public class MoveFigure : MonoBehaviour {
             timeElapsed += Time.deltaTime;
             yield return null;
         }
-
     }
 }
